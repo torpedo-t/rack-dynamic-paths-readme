@@ -1,4 +1,4 @@
-# Dynamic URL Paths
+# Dynamic URL Routes
 
 ## Objectives
 
