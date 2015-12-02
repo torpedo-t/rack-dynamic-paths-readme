@@ -95,3 +95,5 @@ end
 ```
 
 Now our routes are dynamic! We can just add songs, and everything else is taken care of and works for us. Remembering that everything is Ruby is important. You have written a lot of Ruby; take comfort in your skills.
+
+<a href='https://learn.co/lessons/rack-dynamic-paths-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
