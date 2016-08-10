@@ -94,8 +94,10 @@ class Application
 end
 ```
 
-Now our routes are dynamic! We can just add songs, and everything else is taken care of and works for us. Remembering that everything in Ruby is important. You have written a lot of Ruby; take comfort in your skills.
+Now our routes are dynamic! We can just add songs, and everything else is taken care of and works for us. Remembering that everything is in Ruby is important. You have written a lot of Ruby; take comfort in your skills.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rack-dynamic-paths-readme' title='Dynamic URL Routes'>Dynamic URL Routes</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rack-dynamic-paths-readme'>Dynamic URL Routes</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/rack-dynamic-paths-readme'>Dynamic URL Routes</a> on Learn.co and start learning to code for free.</p>
