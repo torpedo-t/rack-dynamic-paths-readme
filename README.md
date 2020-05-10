@@ -18,7 +18,12 @@ Let's assume we have a playlister app which has an array of Songs. First let's l
 
 class Song
 
-attr_accessor :title, :artist
+  attr_accessor :title, :artist
+
+  def initialize(title, artist)
+    @title = title
+    @artist = artist
+  end
 
 end
 ```
