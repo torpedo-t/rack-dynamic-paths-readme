@@ -101,4 +101,3 @@ end
 
 Now our routes are dynamic! We can just add songs, and everything else is taken care of and works for us. You have written a lot of Ruby; take comfort in your skills.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/rack-dynamic-paths-readme'>Dynamic URL Routes</a> on Learn.co and start learning to code for free.</p>
